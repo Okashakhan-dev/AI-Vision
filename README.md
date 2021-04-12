@@ -1,3 +1,5 @@
+
+
 # AI-Vision Privacy Statement
 
 Your privacy is important to us. This privacy statement explains the personal data AI-Vision processes, how AI-Vision processes it, and for what purposes.
